@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # BizNest Shop
 
@@ -6,17 +6,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-3.x-blue?style=for-the-badge&logo=flutter" alt="Flutter" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/Express-API-000000?style=for-the-badge&logo=express" alt="Express" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-</p>
-<p>
   <img src="https://img.shields.io/badge/License-Internal%20Use-gold?style=for-the-badge" alt="License" />
 </p>
 
