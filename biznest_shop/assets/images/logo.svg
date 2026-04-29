@@ -1,0 +1,11 @@
+<svg width="180" height="50" viewBox="0 0 180 50" xmlns="http://www.w3.org/2000/svg">
+  <!-- Text -->
+  <text x="3" y="35" font-family="Inter, Poppins, sans-serif"
+        font-size="28" fill="#414A37" font-weight="700">
+    BizNest
+  </text>
+  <text x="110" y="35" font-family="Inter, Poppins, sans-serif"
+        font-size="28" fill="#99744A" font-weight="500">
+    Shop
+  </text>
+</svg>

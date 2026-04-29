@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="64" height="64" rx="16" fill="#414A37"/>
+
+  <!-- Shopping Bag (Centered) -->
+  <rect x="16" y="24" width="32" height="26" rx="6" fill="#DBC2A6"/>
+
+  <!-- Handle (Centered with bag) -->
+  <path d="M22 24 C22 16, 42 16, 42 24"
+        stroke="#99744A" stroke-width="2.5" fill="none"/>
+
+  <!-- BN inside (Centered) -->
+  <text x="22" y="41" font-family="Poppins, Inter, sans-serif"
+        font-size="12" font-weight="700" fill="#414A37">B</text>
+  <text x="30" y="41" font-family="Poppins, Inter, sans-serif"
+        font-size="12" font-weight="700" fill="#99744A">N</text>
+</svg>
